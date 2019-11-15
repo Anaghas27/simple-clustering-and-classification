@@ -1,2 +1,2 @@
 # simple-clustering-and-classification
-This repository has simple clustering and classification codes
+This repository contain simple clustering(using k-means) and classification(naive bayes, SVM, Decision tree) codes
